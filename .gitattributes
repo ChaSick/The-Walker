@@ -4,3 +4,4 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.resS filter=lfs diff=lfs merge=lfs -text
 AlphaBuild/The_Walker_Data/level1 filter=lfs diff=lfs merge=lfs -text
+AlphaBuild/**/* filter=lfs diff=lfs merge=lfs -text
